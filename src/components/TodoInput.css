@@ -1,0 +1,33 @@
+.TodoInput {
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .TodoInput input {
+    flex-grow: 4;
+    border: none;
+    background: white;
+    padding: 0 1.5em;
+    font-size: initial;
+    outline: none;
+    height: 3rem;
+    border-radius: 5px;
+  }
+  .TodoInput button {
+    padding: 0 1.3rem;
+    border: none;
+    background: #f5655b;
+    color: #dedcdc;
+    font-weight: bold;
+    height: 3rem;
+    border-radius: 5px;
+    line-height: 3rem;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    margin-left: 10px;
+    cursor: pointer;
+    transition: background 0.4s ease-out; 
+  }
+  .TodoInput button:hover {
+    background: teal;
+  }
