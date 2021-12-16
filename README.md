@@ -1,3 +1,6 @@
+# Todo App
+A Todo app made with React JS and Redux. Use the link to have a look - https://sonakshi16.github.io/TodoApp/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
